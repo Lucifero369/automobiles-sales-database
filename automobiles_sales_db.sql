@@ -89,29 +89,29 @@ CREATE TABLE dealers (
 -- Insert data into Brands Table
 INSERT INTO brands (brandid, brandname)
 VALUES
-(1, 'Brand1'),
-(2, 'Brand2'),
-(3, 'Brand3'),
-(4, 'Brand4'),
-(5, 'Brand5'),
-(6, 'Brand6'),
-(7, 'Brand7'),
-(8, 'Brand8'),
-(9, 'Brand9'),
-(10, 'Brand10');
+(1, 'Ferrari'),
+(2, 'Bugatti'),
+(3, 'Lamborghini'),
+(4, 'Porsche'),
+(5, 'McLaren'),
+(6, 'Ford'),
+(7, 'Mercedes'),
+(8, 'Audi'),
+(9, 'BMW'),
+(10, 'Tesla');
 -- Insert data into Models Table
 INSERT INTO models (modelid, modelname)
 VALUES
-(1, 'Model1'),
-(2, 'Model2'),
-(3, 'Model3'),
-(4, 'Model4'),
-(5, 'Model5'),
-(6, 'Model6'),
-(7, 'Model7'),
-(8, 'Model8'),
-(9, 'Model9'),
-(10, 'Model10');
+(1, 'Huracan'),
+(2, 'Veneno'),
+(3, 'M8'),
+(4, 'Tesla Model X'),
+(5, 'Fiesta'),
+(6, 'F1 GTR'),
+(7, 'Audi S5'),
+(8, 'Ferrari F8'),
+(9, 'Taycan'),
+(10, 'Chiron');
 -- Insert data into Supplier Table
 INSERT INTO supplier (supplierid, sname)
 VALUES
