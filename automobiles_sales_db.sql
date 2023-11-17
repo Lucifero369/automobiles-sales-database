@@ -273,7 +273,7 @@ JOIN
 JOIN 
     options o ON v.optionid = o.optionid
 WHERE 
-    m.modelname = 'Model3'
+    m.modelname = 'M8'
 GROUP BY 
     sales_month
 ORDER BY 
